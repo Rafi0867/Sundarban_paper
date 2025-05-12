@@ -1,3 +1,5 @@
+#                  **** This is an example code to create land use land cover change map ****
+
 #  ==========================    PREAAMBLE    ==========================
 if(!require("pacman")) install.packages("pacman")
 pacman::p_load(
